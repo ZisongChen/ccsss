@@ -20,6 +20,7 @@ table {
   width: 100%;
 }
 .center {
+  text-align: center;
   margin: auto;
   padding: 60px;
   width: 60%;
